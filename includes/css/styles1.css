@@ -1,0 +1,150 @@
+
+
+
+/*--Layout---*/
+
+footer {
+	background:#333;
+	color: #eee;
+	font-size: 11px;
+	padding:20px;
+	margin-top: 10px;
+}
+
+
+
+body{
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	
+}
+
+ul.unstyled {
+	list-style: none;
+	padding: 0px;
+}
+
+/*  ------- Navbar-----*/
+   #searchInput{
+	   
+	   width: 200px;
+   }
+   .navbar-brand{
+	   padding: 13px 15px;
+   }
+   .my-custom-nav{
+	background-color: #f1eeee;   
+   }
+   .search-bar{
+	   padding-left: 700px;
+   }
+  .my-cust-nav-brand{
+	padding-left: 0px;
+  }
+/* ----panel------*/
+#my-customizer1{
+	background-color: #d8d8d8;
+	height:150px;
+	
+}
+#my-customizer2{
+	
+	background-color: #d8d8d8;
+	height:150px;
+	
+}
+#my-customizer3{
+	background-color: #d8d8d8;
+	height:150px;
+	
+}
+#my-customizer4{
+	background-color: #d8d8d8;
+	height:150px;
+	
+}
+#my-customizer5{
+	background-color: #d8d8d8;
+	height:150px;
+	
+}
+#my-customizer6{
+	background-color: #d8d8d8;
+	height:150px;
+	
+}
+#my-customizer7{
+	background-color: #d8d8d8;
+	height:150px;
+	
+}
+#my-customizer8{
+	background-color: #d8d8d8;
+	height:150px;
+	
+}
+#my-customizer9{
+	background-color: #d8d8d8;
+	height:150px;
+	
+}
+#my-customizer10{
+	background-color: #d8d8d8;
+	
+	height:150px;
+	
+}
+#my-customizer11{
+	background-color: #d8d8d8;
+	height:150px;
+	
+}
+p.my-panel-label{
+	text-align: center;
+	color: #6b6b6b;
+}
+img.my-image-customizer{
+	/*position:relative;
+	left: 50px;
+	height: 50px;
+	width: 80px;*/
+	
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	height: 50px;
+	width: 80px;
+	
+	
+}
+
+	img.my-image-customizer:hover{
+	  position: relative;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	height: 70px;
+	width: 100px;
+	}
+p.cust-label{
+	position: absolute;
+	text-align: center;
+	/*vertical-align:bottom;*/
+	/*margin-top: 10px;*/
+	top: 0px;
+	color: gray;
+}
+#features{
+	background-color: #f1eeee;
+	
+}
+.wrapper{
+	margin-top: 10px;
+	
+}
+.my-row-panel{
+	margin-top: 0px;
+}
+
+
+

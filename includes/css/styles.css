@@ -1,0 +1,162 @@
+
+
+
+/*--Layout---*/
+
+footer {
+	background:#333;
+	color: #eee;
+	font-size: 11px;
+	padding:20px;
+	margin-top: 10px;
+}
+
+
+
+body{
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	
+}
+
+ul.unstyled {
+	list-style: none;
+	padding: 0px;
+}
+
+/*  ------- Navbar-----*/
+   #searchInput{
+	   
+	   width: 200px;
+   }
+   .navbar-brand{
+	   padding: 13px 15px;
+   }
+   .my-custom-nav{
+	background-color: #f1eeee;   
+   }
+   .search-bar{
+	   padding-left: 700px;
+   }
+  .my-cust-nav-brand{
+	padding-left: 0px;
+  }
+/* ----panel------*/
+#my-customizer1{
+	/*background-color: #fad57a;*/
+		/*background-color: #ffff47;*/
+		background-color: #ffff7a;
+	height:150px;
+	
+}
+#my-customizer2{
+	
+	/*background-color: #ed8d8d;*/
+	background-color: #20dcfd;
+	height:150px;
+	
+}
+#my-customizer3{
+	background-color: #3d8af5;
+	height:150px;
+	
+}
+#my-customizer4{
+	
+	background-color:#f73333;
+	/*background-color: #70d7c7;*/
+	height:150px;
+	
+}
+#my-customizer5{
+	
+	background-color: #acaaaa;
+	/*background-color: #acaaaa;*/
+	height:150px;
+	
+}
+#my-customizer6{
+	/*background-color: #cfb9ec;*/
+	background-color:#a2f148;
+	
+	height:150px;
+	
+}
+#my-customizer7{
+	/*background-color: #fc70c6;*/
+	background-color: #cfb9ec;
+	height:150px;
+	
+}
+#my-customizer8{
+	/*background-color:#f73333;*/
+	background-color: #70d7c7;
+	height:150px;
+	
+}
+#my-customizer9{
+	background-color: #f87e0d;
+	height:150px;
+	
+}
+#my-customizer10{
+	/*background-color:#91f068;*/
+	background-color: #fc70c6;
+	height:150px;
+	
+}
+#my-customizer11{
+	background-color: #f0f1f9;
+	height:150px;
+	
+}
+p.my-panel-label{
+	text-align: center;
+}
+img.my-image-customizer{
+	/*position:relative;
+	left: 50px;
+	height: 50px;
+	width: 80px;*/
+	
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	height: 50px;
+	width: 80px;
+	
+	
+}
+a.panel-icon-link:link{
+	
+	}
+	img.my-image-customizer:hover{
+	  position: relative;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	height: 70px;
+	width: 100px;
+	}
+p.cust-label{
+	position: absolute;
+	text-align: center;
+	/*vertical-align:bottom;*/
+	/*margin-top: 10px;*/
+	top: 0px;
+	color: #ffffff;
+}
+#features{
+	background-color: #f1eeee;
+	
+}
+.wrapper{
+	margin-top: 10px;
+	
+}
+.my-row-panel{
+	margin-top: 0px;
+}
+
+
+
